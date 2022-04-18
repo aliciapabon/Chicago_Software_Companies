@@ -1,4 +1,4 @@
-Python Companies' Information
+Code to extract data of companies
 
 Requirements:
 Python
